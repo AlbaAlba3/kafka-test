@@ -1,0 +1,6 @@
+
+m	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢8¼Î–®Œ2
+\
+java:S6213"":Rename this variable to not match a restricted identifier.(Úæýûüÿÿÿÿ8ÈÎ–®Œ2
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8ÌÎ–®Œ2

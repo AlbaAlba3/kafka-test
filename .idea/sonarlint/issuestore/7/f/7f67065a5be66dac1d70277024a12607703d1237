@@ -1,0 +1,10 @@
+
+m	java:S116&"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢8±†à®Œ2
+f
+java:S2147I"DCombine this catch with the one at line 69, which has the same body.(ñ“Š±üÿÿÿÿ8Á†à®Œ2
+z
+java:S2139A"XEither log this exception and handle it, or rethrow it with some contextual information.(“•‡ÿÿÿÿÿ8Ä†à®Œ2
+z
+java:S2139E"XEither log this exception and handle it, or rethrow it with some contextual information.(íšŸûÿÿÿÿ8Å†à®Œ2
+z
+java:S2139I"XEither log this exception and handle it, or rethrow it with some contextual information.(ñ“Š±üÿÿÿÿ8Ç†à®Œ2
